@@ -1,3 +1,3 @@
 test
 ====
-edit
+conflict
